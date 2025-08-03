@@ -1,0 +1,4 @@
+Model,Total Events,Correct Predictions,Accuracy (%),Avg Confidence,Avg Year Error,Median Year Error
+gemma3:1b,100,15,15.0%,0.379,35.2,14.5
+gemma3:27b,100,64,64.0%,0.737,6.0,N/A
+gemma3:4b,100,42,42.0%,0.622,14.3,1.0

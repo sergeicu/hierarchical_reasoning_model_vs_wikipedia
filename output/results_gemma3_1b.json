@@ -1,0 +1,1702 @@
+[
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "The Green Bay Packers defeated the Kansas City Chiefs in the American football championship game now known as Super Bowl I.",
+      "year": 1967,
+      "date": "1967-01-15",
+      "primary_category": "Sports & Recreation",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: The Green Bay Packers defeated the Kansas City Chiefs in the American football championship game now known as Super Bowl I.?",
+    "model_response": "1967\n",
+    "extracted_year": 1967,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Phan Xích Long, the self-proclaimed emperor of Vietnam, was arrested for organising a revolt against the colonial rule of French Indochina, which was nevertheless carried out by his supporters the following day.",
+      "year": 1913,
+      "date": "1913-03-22",
+      "primary_category": "Politics & Government",
+      "violence_level": "violent",
+      "cultural_region": "Eastern",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: Phan Xích Long, the self-proclaimed emperor of Vietnam, was arrested for organising a revolt against the colonial rule of French Indochina, which was nevertheless carried out by his supporters the following day.?",
+    "model_response": "1889",
+    "extracted_year": 1889,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Sultan Abd al-Hafid signed the Treaty of Fes (depicted), making Morocco a French protectorate.",
+      "year": 1912,
+      "date": "1912-03-30",
+      "primary_category": "Politics & Government",
+      "violence_level": "peaceful",
+      "cultural_region": "Middle Eastern",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: Sultan Abd al-Hafid signed the Treaty of Fes (depicted), making Morocco a French protectorate.?",
+    "model_response": "1850\n",
+    "extracted_year": 1850,
+    "is_correct": false,
+    "confidence_score": 0.1
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "The first episode of the documentary series Benefits Street aired on Channel 4, prompting discussion in the United Kingdom about welfare dependency.",
+      "year": 2014,
+      "date": "2014-01-06",
+      "primary_category": "Politics & Government",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: The first episode of the documentary series Benefits Street aired on Channel 4, prompting discussion in the United Kingdom about welfare dependency.?",
+    "model_response": "1997\n",
+    "extracted_year": 1997,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Reza Shah issued the Kashf-e hijab decree, ordering Iranian police to remove hijabs from any women in public.",
+      "year": 1936,
+      "date": "1936-01-08",
+      "primary_category": "Politics & Government",
+      "violence_level": "peaceful",
+      "cultural_region": "Middle Eastern",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: Reza Shah issued the Kashf-e hijab decree, ordering Iranian police to remove hijabs from any women in public.?",
+    "model_response": "1936",
+    "extracted_year": 1936,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "The Republic of Biafra surrendered following a failed attempt at secession from Nigeria, ending the Nigerian Civil War.",
+      "year": 1970,
+      "date": "1970-01-15",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "African",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: The Republic of Biafra surrendered following a failed attempt at secession from Nigeria, ending the Nigerian Civil War.?",
+    "model_response": "1967",
+    "extracted_year": 1967,
+    "is_correct": false,
+    "confidence_score": 0.6
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "The London low emission zone, governing what types of vehicles may enter Greater London, came into operation.",
+      "year": 2008,
+      "date": "2008-02-04",
+      "primary_category": "Politics & Government",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: The London low emission zone, governing what types of vehicles may enter Greater London, came into operation.?",
+    "model_response": "2017",
+    "extracted_year": 2017,
+    "is_correct": false,
+    "confidence_score": 0.4
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "The Argentine Confederation was defeated in the Platine War by an alliance consisting of Brazil, Uruguay and the Argentine provinces of Entre Ríos and Corrientes.",
+      "year": 1852,
+      "date": "1852-02-03",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Latin American",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: The Argentine Confederation was defeated in the Platine War by an alliance consisting of Brazil, Uruguay and the Argentine provinces of Entre Ríos and Corrientes.?",
+    "model_response": "1828",
+    "extracted_year": 1828,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "After a conclave lasting eighty days, the College of Cardinals elected Fabio Chigi as Pope Alexander VII.",
+      "year": 1655,
+      "date": "1655-04-07",
+      "primary_category": "Religion & Philosophy",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Renaissance"
+    },
+    "question": "What year did this event occur: After a conclave lasting eighty days, the College of Cardinals elected Fabio Chigi as Pope Alexander VII.?",
+    "model_response": "1686",
+    "extracted_year": 1686,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "During an interview, John Lennon of the Beatles argued that the band had become \"more popular than Jesus\".",
+      "year": 1966,
+      "date": "1966-03-04",
+      "primary_category": "Arts & Culture",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: During an interview, John Lennon of the Beatles argued that the band had become \"more popular than Jesus\".?",
+    "model_response": "1969",
+    "extracted_year": 1969,
+    "is_correct": false,
+    "confidence_score": 0.6
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Vietnam War: The American and South Vietnamese air forces began Operation Rolling Thunder, a sustained bombing campaign against North Vietnam that eventually became the most intense air–ground battle waged during the Cold War period.",
+      "year": 1965,
+      "date": "1965-03-02",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Eastern",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: Vietnam War: The American and South Vietnamese air forces began Operation Rolling Thunder, a sustained bombing campaign against North Vietnam that eventually became the most intense air–ground battle waged during the Cold War period.?",
+    "model_response": "1965\n",
+    "extracted_year": 1965,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "A devistating tornado outbreak across Mississippi and Alabama kills 45 people and injures 427 others.",
+      "year": 1945,
+      "date": "1945-02-12",
+      "primary_category": "Disasters & Accidents",
+      "violence_level": "catastrophic",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: A devistating tornado outbreak across Mississippi and Alabama kills 45 people and injures 427 others.?",
+    "model_response": "2019",
+    "extracted_year": 2019,
+    "is_correct": false,
+    "confidence_score": 0.1
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Twenty-one people died when SCAT Airlines Flight 760 crashed near Almaty, Kazakhstan.",
+      "year": 2013,
+      "date": "2013-01-29",
+      "primary_category": "Disasters & Accidents",
+      "violence_level": "catastrophic",
+      "cultural_region": "Eastern",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: Twenty-one people died when SCAT Airlines Flight 760 crashed near Almaty, Kazakhstan.?",
+    "model_response": "1996",
+    "extracted_year": 1996,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "During a period of religious violence in Gujarat, India, mobs of Hindus attacked Muslims in Naroda Patiya and in Chamanpura, resulting in 166 deaths.",
+      "year": 2002,
+      "date": "2002-02-28",
+      "primary_category": "Religion & Philosophy",
+      "violence_level": "violent",
+      "cultural_region": "Middle Eastern",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: During a period of religious violence in Gujarat, India, mobs of Hindus attacked Muslims in Naroda Patiya and in Chamanpura, resulting in 166 deaths.?",
+    "model_response": "1992",
+    "extracted_year": 1992,
+    "is_correct": false,
+    "confidence_score": 0.4
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Scientists at Lawrence Berkeley National Laboratory announced the synthesis of californium, a radioactive transuranium element.",
+      "year": 1950,
+      "date": "1950-03-17",
+      "primary_category": "Science & Technology",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: Scientists at Lawrence Berkeley National Laboratory announced the synthesis of californium, a radioactive transuranium element.?",
+    "model_response": "1967\n",
+    "extracted_year": 1967,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "The space probe Voyager 1 discovered the rings of Jupiter, the third ring system to be discovered in the Solar System, after those of Saturn and Uranus.",
+      "year": 1979,
+      "date": "1979-03-04",
+      "primary_category": "Science & Technology",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: The space probe Voyager 1 discovered the rings of Jupiter, the third ring system to be discovered in the Solar System, after those of Saturn and Uranus.?",
+    "model_response": "1989",
+    "extracted_year": 1989,
+    "is_correct": false,
+    "confidence_score": 0.4
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "The Inter-Allied Women's Conference (delegates pictured) opened as a counterpart to the Paris Peace Conference, marking the first time that women were allowed formal participation in an international treaty negotiation.",
+      "year": 1919,
+      "date": "1919-02-10",
+      "primary_category": "Politics & Government",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: The Inter-Allied Women's Conference (delegates pictured) opened as a counterpart to the Paris Peace Conference, marking the first time that women were allowed formal participation in an international treaty negotiation.?",
+    "model_response": "1917\n",
+    "extracted_year": 1917,
+    "is_correct": false,
+    "confidence_score": 0.6
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Three U.S. Air Force pilots aboard an unarmed T-39 Sabreliner were killed when the aircraft was shot down over Erfurt, East Germany, by a Soviet MiG-19.",
+      "year": 1964,
+      "date": "1964-01-28",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Eastern",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: Three U.S. Air Force pilots aboard an unarmed T-39 Sabreliner were killed when the aircraft was shot down over Erfurt, East Germany, by a Soviet MiG-19.?",
+    "model_response": "1983\n",
+    "extracted_year": 1983,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "English poet William Wordsworth and his sister Dorothy encountered a \"long belt\" of daffodils while walking around Ullswater in the Lake District, inspiring him to pen his best-known work, \"I Wandered Lonely as a Cloud\".",
+      "year": 1802,
+      "date": "1802-04-15",
+      "primary_category": "Arts & Culture",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: English poet William Wordsworth and his sister Dorothy encountered a \"long belt\" of daffodils while walking around Ullswater in the Lake District, inspiring him to pen his best-known work, \"I Wandered Lonely as a Cloud\".?",
+    "model_response": "1798",
+    "extracted_year": 1798,
+    "is_correct": false,
+    "confidence_score": 0.6
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "The first Nazi concentration camp was opened in Nohra to reduce overcrowding in prisons from the arrest of German Communists.",
+      "year": 1933,
+      "date": "1933-03-03",
+      "primary_category": "Politics & Government",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: The first Nazi concentration camp was opened in Nohra to reduce overcrowding in prisons from the arrest of German Communists.?",
+    "model_response": "1933",
+    "extracted_year": 1933,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Yellowstone National Park (bison pictured), located mostly in the present-day U.S. state of Wyoming, was established by President Ulysses S. Grant.",
+      "year": 1872,
+      "date": "1872-03-01",
+      "primary_category": "Politics & Government",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: Yellowstone National Park (bison pictured), located mostly in the present-day U.S. state of Wyoming, was established by President Ulysses S. Grant.?",
+    "model_response": "1872\n",
+    "extracted_year": 1872,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "King Charles VI of France (pictured) was nearly killed when several other dancers' costumes caught fire during a masquerade ball in Paris.",
+      "year": 1393,
+      "date": "1393-01-28",
+      "primary_category": "Arts & Culture",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Medieval"
+    },
+    "question": "What year did this event occur: King Charles VI of France (pictured) was nearly killed when several other dancers' costumes caught fire during a masquerade ball in Paris.?",
+    "model_response": "1776",
+    "extracted_year": 1776,
+    "is_correct": false,
+    "confidence_score": 0.1
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Abbasid forces decisively defeated the Saffarid emir Ya'qub ibn Laith, forcing the latter to halt his advance into Iraq.",
+      "year": 876,
+      "date": "876-04-08",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Middle Eastern",
+      "historical_period": "Medieval"
+    },
+    "question": "What year did this event occur: Abbasid forces decisively defeated the Saffarid emir Ya'qub ibn Laith, forcing the latter to halt his advance into Iraq.?",
+    "model_response": "869\n",
+    "extracted_year": null,
+    "is_correct": false,
+    "confidence_score": 0.0
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "U.S. president Richard Nixon signed the Public Health Cigarette Smoking Act into law, requiring that a prominent warning by the surgeon general be placed on cigarette packages.",
+      "year": 1970,
+      "date": "1970-04-01",
+      "primary_category": "Politics & Government",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: U.S. president Richard Nixon signed the Public Health Cigarette Smoking Act into law, requiring that a prominent warning by the surgeon general be placed on cigarette packages.?",
+    "model_response": "1970\n",
+    "extracted_year": 1970,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "The aircraft carrying the Manchester United football team crashed while attempting to take off from Munich-Riem Airport in West Germany, killing 8 players and 23 people in total (news reel featured).",
+      "year": 1958,
+      "date": "1958-02-06",
+      "primary_category": "Disasters & Accidents",
+      "violence_level": "catastrophic",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: The aircraft carrying the Manchester United football team crashed while attempting to take off from Munich-Riem Airport in West Germany, killing 8 players and 23 people in total (news reel featured).?",
+    "model_response": "1986\n",
+    "extracted_year": 1986,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Tropical Storm Domoina made landfall in southern Mozambique, causing some of the most severe flooding recorded in the region.",
+      "year": 1984,
+      "date": "1984-01-28",
+      "primary_category": "Disasters & Accidents",
+      "violence_level": "catastrophic",
+      "cultural_region": "African",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: Tropical Storm Domoina made landfall in southern Mozambique, causing some of the most severe flooding recorded in the region.?",
+    "model_response": "2019",
+    "extracted_year": 2019,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "In Washington, D.C., Barack Obama was inaugurated as the first African American president of the United States.",
+      "year": 2009,
+      "date": "2009-01-20",
+      "primary_category": "Politics & Government",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: In Washington, D.C., Barack Obama was inaugurated as the first African American president of the United States.?",
+    "model_response": "2009\n",
+    "extracted_year": 2009,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "India's Irfan Pathan became the only bowler to take a Test cricket hat-trick in the opening over of a match.",
+      "year": 2006,
+      "date": "2006-01-29",
+      "primary_category": "Sports & Recreation",
+      "violence_level": "peaceful",
+      "cultural_region": "Eastern",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: India's Irfan Pathan became the only bowler to take a Test cricket hat-trick in the opening over of a match.?",
+    "model_response": "1989",
+    "extracted_year": 1989,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Samuel Byck attempted to hijack an aircraft at Baltimore/Washington International Airport with the intention of crashing it into the White House to assassinate U.S. president Richard Nixon, but he was stopped by police.",
+      "year": 1974,
+      "date": "1974-02-22",
+      "primary_category": "Politics & Government",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: Samuel Byck attempted to hijack an aircraft at Baltimore/Washington International Airport with the intention of crashing it into the White House to assassinate U.S. president Richard Nixon, but he was stopped by police.?",
+    "model_response": "1975",
+    "extracted_year": 1975,
+    "is_correct": false,
+    "confidence_score": 0.8
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Iraqi no-fly zones conflict: In a friendly-fire incident during Operation Provide Comfort, two U.S. Air Force aircraft mistakenly shot down two U.S. Army helicopters over northern Iraq, killing 26 people.",
+      "year": 1994,
+      "date": "1994-04-14",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Middle Eastern",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: Iraqi no-fly zones conflict: In a friendly-fire incident during Operation Provide Comfort, two U.S. Air Force aircraft mistakenly shot down two U.S. Army helicopters over northern Iraq, killing 26 people.?",
+    "model_response": "2016",
+    "extracted_year": 2016,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Sepoys of Indian Muslim background mutinied against their British officers in Singapore.",
+      "year": 1915,
+      "date": "1915-02-15",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Middle Eastern",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: Sepoys of Indian Muslim background mutinied against their British officers in Singapore.?",
+    "model_response": "1856\n",
+    "extracted_year": 1856,
+    "is_correct": false,
+    "confidence_score": 0.1
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Fourteen-year-old Edward III was crowned King of England, but with the country ruled by his mother Queen Isabella and her lover Roger Mortimer.",
+      "year": 1327,
+      "date": "1327-02-01",
+      "primary_category": "Politics & Government",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Medieval"
+    },
+    "question": "What year did this event occur: Fourteen-year-old Edward III was crowned King of England, but with the country ruled by his mother Queen Isabella and her lover Roger Mortimer.?",
+    "model_response": "1327",
+    "extracted_year": null,
+    "is_correct": false,
+    "confidence_score": 0.0
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "The United States ratifies the Treaty of Ghent – signed in late 1814 – formally ending the War of 1812.",
+      "year": 1815,
+      "date": "1815-02-17",
+      "primary_category": "Military & Warfare",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: The United States ratifies the Treaty of Ghent – signed in late 1814 – formally ending the War of 1812.?",
+    "model_response": "1814",
+    "extracted_year": 1814,
+    "is_correct": false,
+    "confidence_score": 0.8
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "SN 1987A, the first supernova that modern astronomers were able to study in great detail, was observed from Earth occurring in the Large Magellanic Cloud.",
+      "year": 1987,
+      "date": "1987-02-23",
+      "primary_category": "Science & Technology",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: SN 1987A, the first supernova that modern astronomers were able to study in great detail, was observed from Earth occurring in the Large Magellanic Cloud.?",
+    "model_response": "1987",
+    "extracted_year": 1987,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Nazi German forces re-occupied the demilitarized Rhineland, violating both the Treaty of Versailles and the Locarno Treaties that were signed after World War I.",
+      "year": 1936,
+      "date": "1936-03-07",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: Nazi German forces re-occupied the demilitarized Rhineland, violating both the Treaty of Versailles and the Locarno Treaties that were signed after World War I.?",
+    "model_response": "1936\n",
+    "extracted_year": 1936,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "The Hawker Siddeley Harrier, the first operational fighter aircraft with V/STOL capabilities, entered service with the Royal Air Force.",
+      "year": 1969,
+      "date": "1969-04-01",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: The Hawker Siddeley Harrier, the first operational fighter aircraft with V/STOL capabilities, entered service with the Royal Air Force.?",
+    "model_response": "1919\n",
+    "extracted_year": 1919,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Mission Santa Clara de Asís (pictured), a Spanish mission in California that formed the basis of both the city of Santa Clara and Santa Clara University, was established by the Franciscans.",
+      "year": 1777,
+      "date": "1777-01-12",
+      "primary_category": "Religion & Philosophy",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: Mission Santa Clara de Asís (pictured), a Spanish mission in California that formed the basis of both the city of Santa Clara and Santa Clara University, was established by the Franciscans.?",
+    "model_response": "1777\n",
+    "extracted_year": 1777,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "In a speech before the U.S. Congress, Representative John Edward Bouligny refused to join his fellow Louisiana congressmen in heeding the state's secession convention and resigning.",
+      "year": 1861,
+      "date": "1861-02-05",
+      "primary_category": "Politics & Government",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: In a speech before the U.S. Congress, Representative John Edward Bouligny refused to join his fellow Louisiana congressmen in heeding the state's secession convention and resigning.?",
+    "model_response": "1892\n",
+    "extracted_year": 1892,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Two men committed an armed robbery in Tottenham, London, and led police on a two-hour chase, partially by tram, that ended in the perpetrators' suicides.",
+      "year": 1909,
+      "date": "1909-01-23",
+      "primary_category": "Disasters & Accidents",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: Two men committed an armed robbery in Tottenham, London, and led police on a two-hour chase, partially by tram, that ended in the perpetrators' suicides.?",
+    "model_response": "1895\n",
+    "extracted_year": 1895,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "After a mid-air collision with a fighter plane during a practice exercise off Tybee Island, Georgia, a U.S. Air Force bomber jettisoned a Mark 15 nuclear bomb, which was presumed lost.",
+      "year": 1958,
+      "date": "1958-02-05",
+      "primary_category": "Military & Warfare",
+      "violence_level": "catastrophic",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: After a mid-air collision with a fighter plane during a practice exercise off Tybee Island, Georgia, a U.S. Air Force bomber jettisoned a Mark 15 nuclear bomb, which was presumed lost.?",
+    "model_response": "1983",
+    "extracted_year": 1983,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "The online video platform YouTube was founded by Steve Chen, Chad Hurley, and Jawed Karim.",
+      "year": 2005,
+      "date": "2005-02-14",
+      "primary_category": "Science & Technology",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: The online video platform YouTube was founded by Steve Chen, Chad Hurley, and Jawed Karim.?",
+    "model_response": "2005",
+    "extracted_year": 2005,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Two passenger trains collided in Halle, Belgium, when one driver failed to stop at a red signal, resulting in 19 deaths and 171 injuries.",
+      "year": 2010,
+      "date": "2010-02-15",
+      "primary_category": "Disasters & Accidents",
+      "violence_level": "catastrophic",
+      "cultural_region": "Western",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: Two passenger trains collided in Halle, Belgium, when one driver failed to stop at a red signal, resulting in 19 deaths and 171 injuries.?",
+    "model_response": "1950",
+    "extracted_year": 1950,
+    "is_correct": false,
+    "confidence_score": 0.1
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "American country-music performers Patsy Cline, Cowboy Copas, and Hawkshaw Hawkins were killed when their PA-24 crashed shortly after takeoff in Camden, Tennessee.",
+      "year": 1963,
+      "date": "1963-03-05",
+      "primary_category": "Arts & Culture",
+      "violence_level": "catastrophic",
+      "cultural_region": "Western",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: American country-music performers Patsy Cline, Cowboy Copas, and Hawkshaw Hawkins were killed when their PA-24 crashed shortly after takeoff in Camden, Tennessee.?",
+    "model_response": "1972",
+    "extracted_year": 1972,
+    "is_correct": false,
+    "confidence_score": 0.4
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "World War II: Australian troops advanced along the northern part of Bougainville Island (in present-day Papua New Guinea) and began fighting Japanese forces in the Battle of Tsimba Ridge.",
+      "year": 1945,
+      "date": "1945-01-17",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: World War II: Australian troops advanced along the northern part of Bougainville Island (in present-day Papua New Guinea) and began fighting Japanese forces in the Battle of Tsimba Ridge.?",
+    "model_response": "1943\n",
+    "extracted_year": 1943,
+    "is_correct": false,
+    "confidence_score": 0.6
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "USS Pueblo was seized by North Korean forces, who claimed that it had violated their territorial waters while spying.",
+      "year": 1968,
+      "date": "1968-01-23",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Eastern",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: USS Pueblo was seized by North Korean forces, who claimed that it had violated their territorial waters while spying.?",
+    "model_response": "1937",
+    "extracted_year": 1937,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Elvis Presley's (pictured)  concert Aloha from Hawaii via Satellite was broadcast live to audiences in Asia and Oceania.",
+      "year": 1973,
+      "date": "1973-01-14",
+      "primary_category": "Arts & Culture",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: Elvis Presley's (pictured)  concert Aloha from Hawaii via Satellite was broadcast live to audiences in Asia and Oceania.?",
+    "model_response": "1977",
+    "extracted_year": 1977,
+    "is_correct": false,
+    "confidence_score": 0.6
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "American Revolutionary War: Samuel Nicholas and the Continental Marines successfully landed on New Providence in the Bahamas and began a raid of Nassau, capturing the port the next day.",
+      "year": 1776,
+      "date": "1776-03-03",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: American Revolutionary War: Samuel Nicholas and the Continental Marines successfully landed on New Providence in the Bahamas and began a raid of Nassau, capturing the port the next day.?",
+    "model_response": "1741",
+    "extracted_year": 1741,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "William Buckley, the U.S. Central Intelligence Agency station chief in Beirut, Lebanon, was kidnapped by Islamic fundamentalists.",
+      "year": 1984,
+      "date": "1984-03-16",
+      "primary_category": "Politics & Government",
+      "violence_level": "violent",
+      "cultural_region": "Middle Eastern",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: William Buckley, the U.S. Central Intelligence Agency station chief in Beirut, Lebanon, was kidnapped by Islamic fundamentalists.?",
+    "model_response": "1988",
+    "extracted_year": 1988,
+    "is_correct": false,
+    "confidence_score": 0.6
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "The first great gusher of the Texas oil boom was discovered in the Spindletop oil field near Beaumont.",
+      "year": 1901,
+      "date": "1901-01-10",
+      "primary_category": "Economics & Business",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Industrial"
+    },
+    "question": "What year did this event occur: The first great gusher of the Texas oil boom was discovered in the Spindletop oil field near Beaumont.?",
+    "model_response": "1983",
+    "extracted_year": 1983,
+    "is_correct": false,
+    "confidence_score": 0.1
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "A building collapsed on tribal land in Thane in Maharashtra, India, causing 74 deaths.",
+      "year": 2013,
+      "date": "2013-04-04",
+      "primary_category": "Disasters & Accidents",
+      "violence_level": "catastrophic",
+      "cultural_region": "Eastern",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: A building collapsed on tribal land in Thane in Maharashtra, India, causing 74 deaths.?",
+    "model_response": "2018",
+    "extracted_year": 2018,
+    "is_correct": false,
+    "confidence_score": 0.6
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "The North American Regional Broadcasting Agreement to define technical standards for AM band radio stations came into effect.",
+      "year": 1941,
+      "date": "1941-03-29",
+      "primary_category": "Science & Technology",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: The North American Regional Broadcasting Agreement to define technical standards for AM band radio stations came into effect.?",
+    "model_response": "1996\n",
+    "extracted_year": 1996,
+    "is_correct": false,
+    "confidence_score": 0.1
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Cassius Chaerea and disgruntled members of the Praetorian Guard murdered the Roman emperor Caligula, who was succeeded by his uncle Claudius.",
+      "year": 41,
+      "date": "41-01-24",
+      "primary_category": "Politics & Government",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Ancient"
+    },
+    "question": "What year did this event occur: Cassius Chaerea and disgruntled members of the Praetorian Guard murdered the Roman emperor Caligula, who was succeeded by his uncle Claudius.?",
+    "model_response": "31 AD",
+    "extracted_year": null,
+    "is_correct": false,
+    "confidence_score": 0.0
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Thomas Hardy founded the London Corresponding Society to seek a \"radical reform of parliament\", later influencing the reform movements of early-19th-century England.",
+      "year": 1792,
+      "date": "1792-01-25",
+      "primary_category": "Politics & Government",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Industrial"
+    },
+    "question": "What year did this event occur: Thomas Hardy founded the London Corresponding Society to seek a \"radical reform of parliament\", later influencing the reform movements of early-19th-century England.?",
+    "model_response": "1858",
+    "extracted_year": 1858,
+    "is_correct": false,
+    "confidence_score": 0.1
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "The construction of the House with Chimaeras (pictured) commenced in Kyiv.",
+      "year": 1901,
+      "date": "1901-03-18",
+      "primary_category": "Arts & Culture",
+      "violence_level": "peaceful",
+      "cultural_region": "Eastern",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: The construction of the House with Chimaeras (pictured) commenced in Kyiv.?",
+    "model_response": "1968\n",
+    "extracted_year": 1968,
+    "is_correct": false,
+    "confidence_score": 0.1
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "A train failed to apply its brakes and crashed through a buffer stop at Once railway station in Buenos Aires, resulting in 51 deaths and more than 700 injuries.",
+      "year": 2012,
+      "date": "2012-02-22",
+      "primary_category": "Disasters & Accidents",
+      "violence_level": "catastrophic",
+      "cultural_region": "Latin American",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: A train failed to apply its brakes and crashed through a buffer stop at Once railway station in Buenos Aires, resulting in 51 deaths and more than 700 injuries.?",
+    "model_response": "1989",
+    "extracted_year": 1989,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "The Bostran era, the official era of the Roman province of Arabia Petraea, began.",
+      "year": 106,
+      "date": "106-03-22",
+      "primary_category": "Politics & Government",
+      "violence_level": "peaceful",
+      "cultural_region": "Middle Eastern",
+      "historical_period": "Ancient"
+    },
+    "question": "What year did this event occur: The Bostran era, the official era of the Roman province of Arabia Petraea, began.?",
+    "model_response": "42 BC",
+    "extracted_year": null,
+    "is_correct": false,
+    "confidence_score": 0.0
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "A Dutch military expedition was launched to bombard Banda Aceh, the capital of the Aceh Sultanate in present-day Indonesia, beginning the Aceh War.",
+      "year": 1873,
+      "date": "1873-03-26",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Middle Eastern",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: A Dutch military expedition was launched to bombard Banda Aceh, the capital of the Aceh Sultanate in present-day Indonesia, beginning the Aceh War.?",
+    "model_response": "1606",
+    "extracted_year": 1606,
+    "is_correct": false,
+    "confidence_score": 0.1
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Mongol conquest of Song China: Zhao Bing (pictured), the last Song emperor, drowned at the end of the Battle of Yamen, bringing the Song dynasty to an end after three centuries.",
+      "year": 1279,
+      "date": "1279-03-19",
+      "primary_category": "Military & Warfare",
+      "violence_level": "catastrophic",
+      "cultural_region": "Eastern",
+      "historical_period": "Medieval"
+    },
+    "question": "What year did this event occur: Mongol conquest of Song China: Zhao Bing (pictured), the last Song emperor, drowned at the end of the Battle of Yamen, bringing the Song dynasty to an end after three centuries.?",
+    "model_response": "1279",
+    "extracted_year": null,
+    "is_correct": false,
+    "confidence_score": 0.0
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "The last Abbasid caliph surrendered Baghdad to the besieging Mongol army of Hulegu Khan, who later sacked the city, killing hundreds of thousands of people.",
+      "year": 1258,
+      "date": "1258-02-10",
+      "primary_category": "Military & Warfare",
+      "violence_level": "catastrophic",
+      "cultural_region": "Middle Eastern",
+      "historical_period": "Medieval"
+    },
+    "question": "What year did this event occur: The last Abbasid caliph surrendered Baghdad to the besieging Mongol army of Hulegu Khan, who later sacked the city, killing hundreds of thousands of people.?",
+    "model_response": "755 AD",
+    "extracted_year": null,
+    "is_correct": false,
+    "confidence_score": 0.0
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "In the most fatal recorded mountaineering accident, 199 of the 210 members of an Imperial Japanese Army unit perished in a blizzard on the Hakkōda Mountains.",
+      "year": 1902,
+      "date": "1902-01-23",
+      "primary_category": "Disasters & Accidents",
+      "violence_level": "catastrophic",
+      "cultural_region": "Eastern",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: In the most fatal recorded mountaineering accident, 199 of the 210 members of an Imperial Japanese Army unit perished in a blizzard on the Hakkōda Mountains.?",
+    "model_response": "1960\n",
+    "extracted_year": 1960,
+    "is_correct": false,
+    "confidence_score": 0.1
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Pope Francis became the first pope to celebrate a papal Mass in the Arabian Peninsula.",
+      "year": 2019,
+      "date": "2019-02-05",
+      "primary_category": "Religion & Philosophy",
+      "violence_level": "peaceful",
+      "cultural_region": "Middle Eastern",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: Pope Francis became the first pope to celebrate a papal Mass in the Arabian Peninsula.?",
+    "model_response": "2016",
+    "extracted_year": 2016,
+    "is_correct": false,
+    "confidence_score": 0.6
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "A series of bomb blasts in the city of Shijiazhuang, China, killed 108 people.",
+      "year": 2001,
+      "date": "2001-03-16",
+      "primary_category": "Disasters & Accidents",
+      "violence_level": "catastrophic",
+      "cultural_region": "Eastern",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: A series of bomb blasts in the city of Shijiazhuang, China, killed 108 people.?",
+    "model_response": "2002\n",
+    "extracted_year": 2002,
+    "is_correct": false,
+    "confidence_score": 0.8
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Queen's Park defeated Clydesdale 2–0 in the final of the inaugural Scottish Cup (trophy pictured).",
+      "year": 1874,
+      "date": "1874-03-21",
+      "primary_category": "Sports & Recreation",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Industrial"
+    },
+    "question": "What year did this event occur: Queen's Park defeated Clydesdale 2–0 in the final of the inaugural Scottish Cup (trophy pictured).?",
+    "model_response": "1873",
+    "extracted_year": 1873,
+    "is_correct": false,
+    "confidence_score": 0.8
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "The first Hauser Dam in the U.S. state of Montana failed, causing severe flooding and damage downstream.",
+      "year": 1908,
+      "date": "1908-04-14",
+      "primary_category": "Disasters & Accidents",
+      "violence_level": "catastrophic",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: The first Hauser Dam in the U.S. state of Montana failed, causing severe flooding and damage downstream.?",
+    "model_response": "1968",
+    "extracted_year": 1968,
+    "is_correct": false,
+    "confidence_score": 0.1
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Eutychius, Ecumenical Patriarch of Constantinople, was arrested after he refused Byzantine emperor Justinian I's order to adopt the tenets of the Aphthartodocetae, a sect of non-Chalcedonian Christians.",
+      "year": 565,
+      "date": "565-01-22",
+      "primary_category": "Religion & Philosophy",
+      "violence_level": "violent",
+      "cultural_region": "Eastern",
+      "historical_period": "Medieval"
+    },
+    "question": "What year did this event occur: Eutychius, Ecumenical Patriarch of Constantinople, was arrested after he refused Byzantine emperor Justinian I's order to adopt the tenets of the Aphthartodocetae, a sect of non-Chalcedonian Christians.?",
+    "model_response": "447",
+    "extracted_year": null,
+    "is_correct": false,
+    "confidence_score": 0.0
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Polish ruler Mieszko I converted to Christianity, an event considered to be the founding of the Polish state.",
+      "year": 966,
+      "date": "966-04-14",
+      "primary_category": "Religion & Philosophy",
+      "violence_level": "peaceful",
+      "cultural_region": "Eastern",
+      "historical_period": "Medieval"
+    },
+    "question": "What year did this event occur: Polish ruler Mieszko I converted to Christianity, an event considered to be the founding of the Polish state.?",
+    "model_response": "999 AD",
+    "extracted_year": null,
+    "is_correct": false,
+    "confidence_score": 0.0
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Italian composer Giuseppe Verdi's opera Rigoletto premiered at La Fenice in Venice.",
+      "year": 1851,
+      "date": "1851-03-11",
+      "primary_category": "Arts & Culture",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Renaissance"
+    },
+    "question": "What year did this event occur: Italian composer Giuseppe Verdi's opera Rigoletto premiered at La Fenice in Venice.?",
+    "model_response": "1876\n",
+    "extracted_year": 1876,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Service began on the Metropolitan Railway (construction depicted) between Paddington and Farringdon Street, today the oldest segment of the London Underground.",
+      "year": 1863,
+      "date": "1863-01-10",
+      "primary_category": "Arts & Culture",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Industrial"
+    },
+    "question": "What year did this event occur: Service began on the Metropolitan Railway (construction depicted) between Paddington and Farringdon Street, today the oldest segment of the London Underground.?",
+    "model_response": "1863",
+    "extracted_year": 1863,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "In response to an open letter written by white clergymen, Martin Luther King Jr. wrote the Letter from Birmingham Jail in defence of the strategy of nonviolent resistance against racism.",
+      "year": 1963,
+      "date": "1963-04-16",
+      "primary_category": "Religion & Philosophy",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: In response to an open letter written by white clergymen, Martin Luther King Jr. wrote the Letter from Birmingham Jail in defence of the strategy of nonviolent resistance against racism.?",
+    "model_response": "1964",
+    "extracted_year": 1964,
+    "is_correct": false,
+    "confidence_score": 0.8
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "The first solo exhibition by Roy Lichtenstein (pictured) opened, including the painting Look Mickey, which featured his first use of Ben Day dots, speech balloons, and comic imagery sourcing.",
+      "year": 1962,
+      "date": "1962-02-10",
+      "primary_category": "Arts & Culture",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: The first solo exhibition by Roy Lichtenstein (pictured) opened, including the painting Look Mickey, which featured his first use of Ben Day dots, speech balloons, and comic imagery sourcing.?",
+    "model_response": "1976",
+    "extracted_year": 1976,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "The Boeing B-52 Stratofortress, a long-range, subsonic, jet-powered, strategic bomber operated by the U.S. Air Force for most of the aircraft's history, made its first flight.",
+      "year": 1952,
+      "date": "1952-04-15",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: The Boeing B-52 Stratofortress, a long-range, subsonic, jet-powered, strategic bomber operated by the U.S. Air Force for most of the aircraft's history, made its first flight.?",
+    "model_response": "1940",
+    "extracted_year": 1940,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "U.S. secretary of state William H. Seward negotiated the purchase of Alaska from Russia for US$7.2 million.",
+      "year": 1867,
+      "date": "1867-03-30",
+      "primary_category": "Politics & Government",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: U.S. secretary of state William H. Seward negotiated the purchase of Alaska from Russia for US$7.2 million.?",
+    "model_response": "1867",
+    "extracted_year": 1867,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "The New Deal for Aborigines was formally announced by the Australian government, providing for full civil rights for Indigenous Australians in exchange for cultural assimilation.",
+      "year": 1939,
+      "date": "1939-01-08",
+      "primary_category": "Politics & Government",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: The New Deal for Aborigines was formally announced by the Australian government, providing for full civil rights for Indigenous Australians in exchange for cultural assimilation.?",
+    "model_response": "1932",
+    "extracted_year": 1932,
+    "is_correct": false,
+    "confidence_score": 0.4
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "The College of Arms, one of the few remaining official heraldic authorities in Europe, was incorporated by royal charter in the City of London.",
+      "year": 1484,
+      "date": "1484-03-02",
+      "primary_category": "Politics & Government",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Medieval"
+    },
+    "question": "What year did this event occur: The College of Arms, one of the few remaining official heraldic authorities in Europe, was incorporated by royal charter in the City of London.?",
+    "model_response": "1391",
+    "extracted_year": null,
+    "is_correct": false,
+    "confidence_score": 0.0
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Despite a large international movement advocating the commutation of her sentence to life imprisonment, Karla Faye Tucker became the first woman to be executed in the United States since 1984.",
+      "year": 1998,
+      "date": "1998-02-03",
+      "primary_category": "Politics & Government",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: Despite a large international movement advocating the commutation of her sentence to life imprisonment, Karla Faye Tucker became the first woman to be executed in the United States since 1984.?",
+    "model_response": "1981",
+    "extracted_year": 1981,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Jacobite risings: A French fleet anchored near Fife Ness as part of a planned French invasion of Britain.",
+      "year": 1708,
+      "date": "1708-03-25",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: Jacobite risings: A French fleet anchored near Fife Ness as part of a planned French invasion of Britain.?",
+    "model_response": "1746",
+    "extracted_year": 1746,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Aboard NASA's Mercury-Redstone 2, Ham the Chimp became the first hominid launched into outer space.",
+      "year": 1961,
+      "date": "1961-01-31",
+      "primary_category": "Science & Technology",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: Aboard NASA's Mercury-Redstone 2, Ham the Chimp became the first hominid launched into outer space.?",
+    "model_response": "1961\n",
+    "extracted_year": 1961,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "The Yongle Emperor (pictured) of the Ming dynasty launched the first of his military campaigns against the Mongols, resulting in the fall of the Mongol khan Bunyashiri.",
+      "year": 1410,
+      "date": "1410-03-25",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Middle Eastern",
+      "historical_period": "Medieval"
+    },
+    "question": "What year did this event occur: The Yongle Emperor (pictured) of the Ming dynasty launched the first of his military campaigns against the Mongols, resulting in the fall of the Mongol khan Bunyashiri.?",
+    "model_response": "1368\n",
+    "extracted_year": null,
+    "is_correct": false,
+    "confidence_score": 0.0
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "The Vietnamese National Army captured Ba Cụt, a military commander of the religious sect Hòa Hảo, which ran a de facto state in South Vietnam in opposition to Prime Minister Ngô Đình Diệm.",
+      "year": 1956,
+      "date": "1956-04-13",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Eastern",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: The Vietnamese National Army captured Ba Cụt, a military commander of the religious sect Hòa Hảo, which ran a de facto state in South Vietnam in opposition to Prime Minister Ngô Đình Diệm.?",
+    "model_response": "1964",
+    "extracted_year": 1964,
+    "is_correct": false,
+    "confidence_score": 0.4
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "The mayors of Carthage and Rome signed a symbolic peace treaty to officially end the Third Punic War, 2,134 years after it began.",
+      "year": 1985,
+      "date": "1985-02-05",
+      "primary_category": "Politics & Government",
+      "violence_level": "peaceful",
+      "cultural_region": "Middle Eastern",
+      "historical_period": "Ancient"
+    },
+    "question": "What year did this event occur: The mayors of Carthage and Rome signed a symbolic peace treaty to officially end the Third Punic War, 2,134 years after it began.?",
+    "model_response": "2012",
+    "extracted_year": 2012,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "King Andrew III died without any male heirs, ending the Árpád dynasty, which had ruled Hungary since the late 9th century.",
+      "year": 1301,
+      "date": "1301-01-14",
+      "primary_category": "Politics & Government",
+      "violence_level": "peaceful",
+      "cultural_region": "Eastern",
+      "historical_period": "Medieval"
+    },
+    "question": "What year did this event occur: King Andrew III died without any male heirs, ending the Árpád dynasty, which had ruled Hungary since the late 9th century.?",
+    "model_response": "1945\n",
+    "extracted_year": 1945,
+    "is_correct": false,
+    "confidence_score": 0.1
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Sergius III returned from exile to take over the papacy from the deposed antipope Christopher.",
+      "year": 904,
+      "date": "904-01-29",
+      "primary_category": "Religion & Philosophy",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Medieval"
+    },
+    "question": "What year did this event occur: Sergius III returned from exile to take over the papacy from the deposed antipope Christopher.?",
+    "model_response": "900",
+    "extracted_year": null,
+    "is_correct": false,
+    "confidence_score": 0.0
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Billboard published its first music hit parade.",
+      "year": 1936,
+      "date": "1936-01-04",
+      "primary_category": "Arts & Culture",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: Billboard published its first music hit parade.?",
+    "model_response": "1962",
+    "extracted_year": 1962,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Six American diplomats who had evaded capture in the Iran hostage crisis escaped with the help of Canadian government officials to Zürich, Switzerland.",
+      "year": 1980,
+      "date": "1980-01-27",
+      "primary_category": "Politics & Government",
+      "violence_level": "peaceful",
+      "cultural_region": "Middle Eastern",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: Six American diplomats who had evaded capture in the Iran hostage crisis escaped with the help of Canadian government officials to Zürich, Switzerland.?",
+    "model_response": "1979\n",
+    "extracted_year": 1979,
+    "is_correct": false,
+    "confidence_score": 0.8
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "English colonists from the Province of Carolina and their native allies began a series of raids against the largely peaceful population of Apalachee in Spanish Florida.",
+      "year": 1704,
+      "date": "1704-01-25",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: English colonists from the Province of Carolina and their native allies began a series of raids against the largely peaceful population of Apalachee in Spanish Florida.?",
+    "model_response": "1565\n",
+    "extracted_year": 1565,
+    "is_correct": false,
+    "confidence_score": 0.1
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Members of the German National Movement in Liechtenstein attempted to overthrow the government and provoke Liechtenstein's annexation into Nazi Germany.",
+      "year": 1939,
+      "date": "1939-03-24",
+      "primary_category": "Politics & Government",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: Members of the German National Movement in Liechtenstein attempted to overthrow the government and provoke Liechtenstein's annexation into Nazi Germany.?",
+    "model_response": "1938",
+    "extracted_year": 1938,
+    "is_correct": false,
+    "confidence_score": 0.8
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Five men disappeared after attending a college basketball game in Chico, California; the bodies of four of them were discovered months later.",
+      "year": 1978,
+      "date": "1978-02-24",
+      "primary_category": "Sports & Recreation",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: Five men disappeared after attending a college basketball game in Chico, California; the bodies of four of them were discovered months later.?",
+    "model_response": "2022",
+    "extracted_year": 2022,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Portugal and the nationalist factions UNITA, the MPLA and the FNLA signed the Alvor Agreement, ending the Angolan War of Independence.",
+      "year": 1975,
+      "date": "1975-01-15",
+      "primary_category": "Politics & Government",
+      "violence_level": "violent",
+      "cultural_region": "African",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: Portugal and the nationalist factions UNITA, the MPLA and the FNLA signed the Alvor Agreement, ending the Angolan War of Independence.?",
+    "model_response": "1961\n",
+    "extracted_year": 1961,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "French composer Georges Bizet's opera Carmen (poster pictured), based on the novella of the same title by Prosper Mérimée, premiered at the Opéra-Comique in Paris.",
+      "year": 1875,
+      "date": "1875-03-03",
+      "primary_category": "Arts & Culture",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: French composer Georges Bizet's opera Carmen (poster pictured), based on the novella of the same title by Prosper Mérimée, premiered at the Opéra-Comique in Paris.?",
+    "model_response": "1875",
+    "extracted_year": 1875,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "John Gotti (pictured), the head of the Gambino crime family of New York City, was convicted of racketeering, murder, conspiracy to commit murder, loansharking, obstruction of justice, illegal gambling, and tax evasion.",
+      "year": 1992,
+      "date": "1992-04-02",
+      "primary_category": "Politics & Government",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: John Gotti (pictured), the head of the Gambino crime family of New York City, was convicted of racketeering, murder, conspiracy to commit murder, loansharking, obstruction of justice, illegal gambling, and tax evasion.?",
+    "model_response": "1970",
+    "extracted_year": 1970,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "The fort at Allahabad was surrendered to the forces of Mughal emperor Aurangzeb.",
+      "year": 1659,
+      "date": "1659-01-12",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Middle Eastern",
+      "historical_period": "Medieval"
+    },
+    "question": "What year did this event occur: The fort at Allahabad was surrendered to the forces of Mughal emperor Aurangzeb.?",
+    "model_response": "1726",
+    "extracted_year": 1726,
+    "is_correct": false,
+    "confidence_score": 0.1
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "A Spanish colonial officer wrote a letter to King Philip II containing the first mention of the Maya ruins of Copán in present-day Honduras.",
+      "year": 1576,
+      "date": "1576-03-08",
+      "primary_category": "Politics & Government",
+      "violence_level": "peaceful",
+      "cultural_region": "Latin American",
+      "historical_period": "Ancient"
+    },
+    "question": "What year did this event occur: A Spanish colonial officer wrote a letter to King Philip II containing the first mention of the Maya ruins of Copán in present-day Honduras.?",
+    "model_response": "1533\n",
+    "extracted_year": 1533,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "The Komnenos dynasty came to full power with the coronation of Alexios I Komnenos (pictured) as Byzantine emperor.",
+      "year": 1081,
+      "date": "1081-04-04",
+      "primary_category": "Politics & Government",
+      "violence_level": "violent",
+      "cultural_region": "Eastern",
+      "historical_period": "Medieval"
+    },
+    "question": "What year did this event occur: The Komnenos dynasty came to full power with the coronation of Alexios I Komnenos (pictured) as Byzantine emperor.?",
+    "model_response": "1204\n",
+    "extracted_year": null,
+    "is_correct": false,
+    "confidence_score": 0.0
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "South Vietnamese junta leader Nguyễn Cao Kỳ fired his rival Nguyễn Hữu Có while the latter was overseas on a diplomatic visit.",
+      "year": 1967,
+      "date": "1967-01-25",
+      "primary_category": "Politics & Government",
+      "violence_level": "violent",
+      "cultural_region": "Middle Eastern",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: South Vietnamese junta leader Nguyễn Cao Kỳ fired his rival Nguyễn Hữu Có while the latter was overseas on a diplomatic visit.?",
+    "model_response": "1964",
+    "extracted_year": 1964,
+    "is_correct": false,
+    "confidence_score": 0.6
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Vietnam War: After having been captured by North Vietnamese forces five and a half years earlier, U.S. Navy pilot John McCain was released with 108 other prisoners of war.",
+      "year": 1973,
+      "date": "1973-03-14",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Eastern",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: Vietnam War: After having been captured by North Vietnamese forces five and a half years earlier, U.S. Navy pilot John McCain was released with 108 other prisoners of war.?",
+    "model_response": "1965",
+    "extracted_year": 1965,
+    "is_correct": false,
+    "confidence_score": 0.4
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Awaking from a nap under a tree at Rancho San Francisco, Francisco López made the first popularly documented discovery of gold in California.",
+      "year": 1842,
+      "date": "1842-03-09",
+      "primary_category": "Economics & Business",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: Awaking from a nap under a tree at Rancho San Francisco, Francisco López made the first popularly documented discovery of gold in California.?",
+    "model_response": "1822",
+    "extracted_year": 1822,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "A magnitude-7.1 earthquake occurred in Tonghai County, China, killing at least 15,000 people.",
+      "year": 1970,
+      "date": "1970-01-04",
+      "primary_category": "Disasters & Accidents",
+      "violence_level": "catastrophic",
+      "cultural_region": "Eastern",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: A magnitude-7.1 earthquake occurred in Tonghai County, China, killing at least 15,000 people.?",
+    "model_response": "2008",
+    "extracted_year": 2008,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "Nearly 2,700 people were killed in an earthquake registering 6.9 Mw in Yushu Tibetan Autonomous Prefecture, China.",
+      "year": 2010,
+      "date": "2010-04-14",
+      "primary_category": "Disasters & Accidents",
+      "violence_level": "catastrophic",
+      "cultural_region": "Eastern",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: Nearly 2,700 people were killed in an earthquake registering 6.9 Mw in Yushu Tibetan Autonomous Prefecture, China.?",
+    "model_response": "2017\n",
+    "extracted_year": 2017,
+    "is_correct": false,
+    "confidence_score": 0.4
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "A pumping engine at a colliery in New Hartley, England, broke and fell down the shaft, trapping miners below and resulting in 204 deaths.",
+      "year": 1862,
+      "date": "1862-01-16",
+      "primary_category": "Disasters & Accidents",
+      "violence_level": "catastrophic",
+      "cultural_region": "Western",
+      "historical_period": "Industrial"
+    },
+    "question": "What year did this event occur: A pumping engine at a colliery in New Hartley, England, broke and fell down the shaft, trapping miners below and resulting in 204 deaths.?",
+    "model_response": "1898",
+    "extracted_year": 1898,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:1b",
+    "event": {
+      "text": "A gunman opened fire into a crowded lecture hall at Northern Illinois University in DeKalb, killing five people and injuring twenty-one others.",
+      "year": 2008,
+      "date": "2008-02-14",
+      "primary_category": "Disasters & Accidents",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: A gunman opened fire into a crowded lecture hall at Northern Illinois University in DeKalb, killing five people and injuring twenty-one others.?",
+    "model_response": "2023",
+    "extracted_year": 2023,
+    "is_correct": false,
+    "confidence_score": 0.2
+  }
+]
