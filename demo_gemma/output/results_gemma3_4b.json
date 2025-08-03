@@ -1,0 +1,1702 @@
+[
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "British diplomat Lord Ismay was appointed the first secretary general of NATO.",
+      "year": 1952,
+      "date": "1952-03-12",
+      "primary_category": "Politics & Government",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: British diplomat Lord Ismay was appointed the first secretary general of NATO.?",
+    "model_response": "1949",
+    "extracted_year": 1949,
+    "is_correct": false,
+    "confidence_score": 0.6
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Datu Muhammad Salleh, leader of a series of major disturbances in North Borneo, was shot dead in Tambunan, but his followers did not give up for five more years.",
+      "year": 1900,
+      "date": "1900-01-31",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Middle Eastern",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: Datu Muhammad Salleh, leader of a series of major disturbances in North Borneo, was shot dead in Tambunan, but his followers did not give up for five more years.?",
+    "model_response": "1948",
+    "extracted_year": 1948,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "First World War: The German Army opened the Spring Offensive with Operation Michael, attempting to break through the Allied lines and to seize ports on the English Channel.",
+      "year": 1918,
+      "date": "1918-03-21",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: First World War: The German Army opened the Spring Offensive with Operation Michael, attempting to break through the Allied lines and to seize ports on the English Channel.?",
+    "model_response": "1918",
+    "extracted_year": 1918,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "France and the United Kingdom signed the Entente Cordiale, agreeing to a peaceful coexistence after centuries of intermittent conflict.",
+      "year": 1904,
+      "date": "1904-04-08",
+      "primary_category": "Politics & Government",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: France and the United Kingdom signed the Entente Cordiale, agreeing to a peaceful coexistence after centuries of intermittent conflict.?",
+    "model_response": "1904",
+    "extracted_year": 1904,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "BOAC Flight 911 disintegrated and crashed near Mount Fuji shortly after departure from Tokyo International Airport, killing all 113 passengers and 11 crew members on board.",
+      "year": 1966,
+      "date": "1966-03-05",
+      "primary_category": "Disasters & Accidents",
+      "violence_level": "catastrophic",
+      "cultural_region": "Eastern",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: BOAC Flight 911 disintegrated and crashed near Mount Fuji shortly after departure from Tokyo International Airport, killing all 113 passengers and 11 crew members on board.?",
+    "model_response": "1979",
+    "extracted_year": 1979,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Privateer Amaro Pargo was declared a hidalgo, a member of the Spanish nobility.",
+      "year": 1725,
+      "date": "1725-01-25",
+      "primary_category": "Politics & Government",
+      "violence_level": "violent",
+      "cultural_region": "Latin American",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: Privateer Amaro Pargo was declared a hidalgo, a member of the Spanish nobility.?",
+    "model_response": "1792",
+    "extracted_year": 1792,
+    "is_correct": false,
+    "confidence_score": 0.1
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "William Bligh, the governor of New South Wales, was deposed in the only military coup in Australian history.",
+      "year": 1808,
+      "date": "1808-01-26",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Industrial"
+    },
+    "question": "What year did this event occur: William Bligh, the governor of New South Wales, was deposed in the only military coup in Australian history.?",
+    "model_response": "1808",
+    "extracted_year": 1808,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Former members of the overthrown Tokugawa shogunate proclaimed Japan's second-largest island, Hokkaido, to be the independent Republic of Ezo.",
+      "year": 1869,
+      "date": "1869-01-27",
+      "primary_category": "Politics & Government",
+      "violence_level": "peaceful",
+      "cultural_region": "Eastern",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: Former members of the overthrown Tokugawa shogunate proclaimed Japan's second-largest island, Hokkaido, to be the independent Republic of Ezo.?",
+    "model_response": "1867",
+    "extracted_year": 1867,
+    "is_correct": false,
+    "confidence_score": 0.6
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "In Mrauk U, Myanmar, police fired into a crowd protesting the ban of an event to mark the anniversary of the end of the Kingdom of Mrauk U, resulting in seven deaths and twelve injuries.",
+      "year": 2018,
+      "date": "2018-01-16",
+      "primary_category": "Politics & Government",
+      "violence_level": "violent",
+      "cultural_region": "Eastern",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: In Mrauk U, Myanmar, police fired into a crowd protesting the ban of an event to mark the anniversary of the end of the Kingdom of Mrauk U, resulting in seven deaths and twelve injuries.?",
+    "model_response": "2017",
+    "extracted_year": 2017,
+    "is_correct": false,
+    "confidence_score": 0.8
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "The U.S. Senate unanimously confirmed Janet Reno as the first female United States attorney general.",
+      "year": 1993,
+      "date": "1993-03-11",
+      "primary_category": "Politics & Government",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: The U.S. Senate unanimously confirmed Janet Reno as the first female United States attorney general.?",
+    "model_response": "1993",
+    "extracted_year": 1993,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "In the most fatal recorded mountaineering accident, 199 of the 210 members of an Imperial Japanese Army unit perished in a blizzard on the Hakkōda Mountains.",
+      "year": 1902,
+      "date": "1902-01-23",
+      "primary_category": "Disasters & Accidents",
+      "violence_level": "catastrophic",
+      "cultural_region": "Eastern",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: In the most fatal recorded mountaineering accident, 199 of the 210 members of an Imperial Japanese Army unit perished in a blizzard on the Hakkōda Mountains.?",
+    "model_response": "1937",
+    "extracted_year": 1937,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "John McCloskey, the Roman Catholic archbishop of New York, was created the first cardinal from the United States.",
+      "year": 1875,
+      "date": "1875-03-15",
+      "primary_category": "Religion & Philosophy",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: John McCloskey, the Roman Catholic archbishop of New York, was created the first cardinal from the United States.?",
+    "model_response": "1884",
+    "extracted_year": 1884,
+    "is_correct": false,
+    "confidence_score": 0.4
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "The first same-sex marriages in England and Wales took place following the passage of the Marriage (Same Sex Couples) Act 2013.",
+      "year": 2014,
+      "date": "2014-03-29",
+      "primary_category": "Politics & Government",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: The first same-sex marriages in England and Wales took place following the passage of the Marriage (Same Sex Couples) Act 2013.?",
+    "model_response": "2014",
+    "extracted_year": 2014,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Dutch explorer Willem Janszoon made the first recorded European landing in Australia, although he believed that he was on New Guinea.",
+      "year": 1606,
+      "date": "1606-02-26",
+      "primary_category": "Politics & Government",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Renaissance"
+    },
+    "question": "What year did this event occur: Dutch explorer Willem Janszoon made the first recorded European landing in Australia, although he believed that he was on New Guinea.?",
+    "model_response": "1606\n",
+    "extracted_year": 1606,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "The Troubles: In Operation Flavius, the Special Air Service killed three volunteers of the Provisional Irish Republican Army conspiring to bomb a parade of British military bands in Gibraltar.",
+      "year": 1988,
+      "date": "1988-03-06",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: The Troubles: In Operation Flavius, the Special Air Service killed three volunteers of the Provisional Irish Republican Army conspiring to bomb a parade of British military bands in Gibraltar.?",
+    "model_response": "1981\n",
+    "extracted_year": 1981,
+    "is_correct": false,
+    "confidence_score": 0.4
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "The Armenian community of Sumgait in Azerbaijan was the target of a violent pogrom (memorial pictured).",
+      "year": 1988,
+      "date": "1988-02-27",
+      "primary_category": "Politics & Government",
+      "violence_level": "violent",
+      "cultural_region": "Middle Eastern",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: The Armenian community of Sumgait in Azerbaijan was the target of a violent pogrom (memorial pictured).?",
+    "model_response": "1988",
+    "extracted_year": 1988,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "About 30,000 people were killed when an earthquake struck the Province of L'Aquila in Italy.",
+      "year": 1915,
+      "date": "1915-01-13",
+      "primary_category": "Disasters & Accidents",
+      "violence_level": "catastrophic",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: About 30,000 people were killed when an earthquake struck the Province of L'Aquila in Italy.?",
+    "model_response": "2009\n",
+    "extracted_year": 2009,
+    "is_correct": false,
+    "confidence_score": 0.1
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "The cryptocurrency network of bitcoin was created when Satoshi Nakamoto mined the first block of the chain.",
+      "year": 2009,
+      "date": "2009-01-03",
+      "primary_category": "Science & Technology",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: The cryptocurrency network of bitcoin was created when Satoshi Nakamoto mined the first block of the chain.?",
+    "model_response": "2009",
+    "extracted_year": 2009,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Ignatius of Loyola and Francis Xavier, founders of the Jesuits, were canonized by Pope Gregory XV.",
+      "year": 1622,
+      "date": "1622-03-12",
+      "primary_category": "Religion & Philosophy",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Renaissance"
+    },
+    "question": "What year did this event occur: Ignatius of Loyola and Francis Xavier, founders of the Jesuits, were canonized by Pope Gregory XV.?",
+    "model_response": "1622\n",
+    "extracted_year": 1622,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Singaporean communist activist Tan Chay Wa was executed, leading to a much-publicised trial of his brother for engraving 'subversive' material on the gravestone.",
+      "year": 1983,
+      "date": "1983-01-18",
+      "primary_category": "Politics & Government",
+      "violence_level": "violent",
+      "cultural_region": "Eastern",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: Singaporean communist activist Tan Chay Wa was executed, leading to a much-publicised trial of his brother for engraving 'subversive' material on the gravestone.?",
+    "model_response": "1963\n",
+    "extracted_year": 1963,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Sri Lankan Tamil politician Kumar Ponnambalam was killed in an assassination suspected to have been sanctioned by President Chandrika Kumaratunga.",
+      "year": 2000,
+      "date": "2000-01-05",
+      "primary_category": "Politics & Government",
+      "violence_level": "violent",
+      "cultural_region": "Middle Eastern",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: Sri Lankan Tamil politician Kumar Ponnambalam was killed in an assassination suspected to have been sanctioned by President Chandrika Kumaratunga.?",
+    "model_response": "2009",
+    "extracted_year": 2009,
+    "is_correct": false,
+    "confidence_score": 0.4
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "The Mikado, Gilbert and Sullivan's most frequently performed Savoy opera, debuted at the Savoy Theatre in London.",
+      "year": 1885,
+      "date": "1885-03-14",
+      "primary_category": "Arts & Culture",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Industrial"
+    },
+    "question": "What year did this event occur: The Mikado, Gilbert and Sullivan's most frequently performed Savoy opera, debuted at the Savoy Theatre in London.?",
+    "model_response": "1883",
+    "extracted_year": 1883,
+    "is_correct": false,
+    "confidence_score": 0.6
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "John Flamsteed (pictured) was appointed the first Astronomer Royal by King Charles II of England.",
+      "year": 1675,
+      "date": "1675-03-04",
+      "primary_category": "Science & Technology",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Renaissance"
+    },
+    "question": "What year did this event occur: John Flamsteed (pictured) was appointed the first Astronomer Royal by King Charles II of England.?",
+    "model_response": "1675\n",
+    "extracted_year": 1675,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Nojpetén, capital of the Itza Maya kingdom, fell to Spanish conquistadors, the final step in the Spanish conquest of Guatemala.",
+      "year": 1697,
+      "date": "1697-03-13",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Latin American",
+      "historical_period": "Ancient"
+    },
+    "question": "What year did this event occur: Nojpetén, capital of the Itza Maya kingdom, fell to Spanish conquistadors, the final step in the Spanish conquest of Guatemala.?",
+    "model_response": "1526",
+    "extracted_year": 1526,
+    "is_correct": false,
+    "confidence_score": 0.1
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Talaat Pasha, the main perpetrator of the Armenian genocide, was assassinated by Soghomon Tehlirian.",
+      "year": 1921,
+      "date": "1921-03-15",
+      "primary_category": "Politics & Government",
+      "violence_level": "violent",
+      "cultural_region": "Middle Eastern",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: Talaat Pasha, the main perpetrator of the Armenian genocide, was assassinated by Soghomon Tehlirian.?",
+    "model_response": "1921",
+    "extracted_year": 1921,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "A magnitude-7.1 earthquake occurred in Tonghai County, China, killing at least 15,000 people.",
+      "year": 1970,
+      "date": "1970-01-04",
+      "primary_category": "Disasters & Accidents",
+      "violence_level": "catastrophic",
+      "cultural_region": "Eastern",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: A magnitude-7.1 earthquake occurred in Tonghai County, China, killing at least 15,000 people.?",
+    "model_response": "2008",
+    "extracted_year": 2008,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "A conflagration in Savannah, Georgia, destroyed over 400 buildings and caused millions of dollars in damages.",
+      "year": 1820,
+      "date": "1820-01-11",
+      "primary_category": "Disasters & Accidents",
+      "violence_level": "catastrophic",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: A conflagration in Savannah, Georgia, destroyed over 400 buildings and caused millions of dollars in damages.?",
+    "model_response": "1896",
+    "extracted_year": 1896,
+    "is_correct": false,
+    "confidence_score": 0.1
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "The United States Navy suffered its largest non-combat loss of life when the collier USS Cyclops set sail from Barbados to Baltimore and was never seen again, presumably disappearing in the Bermuda Triangle.",
+      "year": 1918,
+      "date": "1918-03-04",
+      "primary_category": "Disasters & Accidents",
+      "violence_level": "catastrophic",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: The United States Navy suffered its largest non-combat loss of life when the collier USS Cyclops set sail from Barbados to Baltimore and was never seen again, presumably disappearing in the Bermuda Triangle.?",
+    "model_response": "1918",
+    "extracted_year": 1918,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "New Zealand Wars: Carl Sylvius Völkner, a Protestant missionary, was killed by Hauhau militants in Ōpōtiki for working as an agent for New Zealand governor-general George Grey.",
+      "year": 1865,
+      "date": "1865-03-02",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: New Zealand Wars: Carl Sylvius Völkner, a Protestant missionary, was killed by Hauhau militants in Ōpōtiki for working as an agent for New Zealand governor-general George Grey.?",
+    "model_response": "1868",
+    "extracted_year": 1868,
+    "is_correct": false,
+    "confidence_score": 0.6
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Contaminated beer served at a funeral in Tete Province, Mozambique, killed 75 people and made at least 230 others ill.",
+      "year": 2015,
+      "date": "2015-01-09",
+      "primary_category": "Disasters & Accidents",
+      "violence_level": "catastrophic",
+      "cultural_region": "African",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: Contaminated beer served at a funeral in Tete Province, Mozambique, killed 75 people and made at least 230 others ill.?",
+    "model_response": "2009",
+    "extracted_year": 2009,
+    "is_correct": false,
+    "confidence_score": 0.4
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Rebel East Timorese soldiers invaded the homes of President José Ramos-Horta and Prime Minister Xanana Gusmão, seriously wounding the former.",
+      "year": 2008,
+      "date": "2008-02-11",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Latin American",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: Rebel East Timorese soldiers invaded the homes of President José Ramos-Horta and Prime Minister Xanana Gusmão, seriously wounding the former.?",
+    "model_response": "2006\n",
+    "extracted_year": 2006,
+    "is_correct": false,
+    "confidence_score": 0.6
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "American statistician Herman Hollerith received a patent for his electromechanical tabulating machine for punched-card data.",
+      "year": 1889,
+      "date": "1889-01-08",
+      "primary_category": "Science & Technology",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Industrial"
+    },
+    "question": "What year did this event occur: American statistician Herman Hollerith received a patent for his electromechanical tabulating machine for punched-card data.?",
+    "model_response": "1890",
+    "extracted_year": 1890,
+    "is_correct": false,
+    "confidence_score": 0.8
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "The U.S. Navy nuclear submarine USS Thresher (SSN-593) sank with all hands lost during deep-diving tests in the North Atlantic Ocean.",
+      "year": 1963,
+      "date": "1963-04-10",
+      "primary_category": "Military & Warfare",
+      "violence_level": "catastrophic",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: The U.S. Navy nuclear submarine USS Thresher (SSN-593) sank with all hands lost during deep-diving tests in the North Atlantic Ocean.?",
+    "model_response": "1963",
+    "extracted_year": 1963,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Charles I of Anjou acquired a claim on the Kingdom of Jerusalem in exchange for a significant sum of money.",
+      "year": 1277,
+      "date": "1277-03-18",
+      "primary_category": "Politics & Government",
+      "violence_level": "violent",
+      "cultural_region": "Middle Eastern",
+      "historical_period": "Medieval"
+    },
+    "question": "What year did this event occur: Charles I of Anjou acquired a claim on the Kingdom of Jerusalem in exchange for a significant sum of money.?",
+    "model_response": "1327",
+    "extracted_year": null,
+    "is_correct": false,
+    "confidence_score": 0.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "One of England's worst incidents of football hooliganism occurred when supporters of Luton Town and Millwall rioted before a match at Kenilworth Road stadium.",
+      "year": 1985,
+      "date": "1985-03-13",
+      "primary_category": "Sports & Recreation",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: One of England's worst incidents of football hooliganism occurred when supporters of Luton Town and Millwall rioted before a match at Kenilworth Road stadium.?",
+    "model_response": "1988",
+    "extracted_year": 1988,
+    "is_correct": false,
+    "confidence_score": 0.6
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Millions of people participated in the Women's March in Washington, D.C., and around the world to advocate for legislation and policies on human rights and other issues.",
+      "year": 2017,
+      "date": "2017-01-21",
+      "primary_category": "Politics & Government",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: Millions of people participated in the Women's March in Washington, D.C., and around the world to advocate for legislation and policies on human rights and other issues.?",
+    "model_response": "2017",
+    "extracted_year": 2017,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Faculty members, clerical workers, and librarians at Boston University went on strike.",
+      "year": 1979,
+      "date": "1979-04-05",
+      "primary_category": "Politics & Government",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: Faculty members, clerical workers, and librarians at Boston University went on strike.?",
+    "model_response": "1969",
+    "extracted_year": 1969,
+    "is_correct": false,
+    "confidence_score": 0.4
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "A plane crash on the slopes of Mount Manunggal killed Philippine president Ramon Magsaysay and 24 others.",
+      "year": 1957,
+      "date": "1957-03-17",
+      "primary_category": "Disasters & Accidents",
+      "violence_level": "catastrophic",
+      "cultural_region": "Latin American",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: A plane crash on the slopes of Mount Manunggal killed Philippine president Ramon Magsaysay and 24 others.?",
+    "model_response": "1957",
+    "extracted_year": 1957,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Lockheed Corporation president Carl Kotchian admitted that the company had paid out approximately US$3 million in bribes to the office of Japanese prime minister Kakuei Tanaka.",
+      "year": 1976,
+      "date": "1976-02-06",
+      "primary_category": "Economics & Business",
+      "violence_level": "peaceful",
+      "cultural_region": "Middle Eastern",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: Lockheed Corporation president Carl Kotchian admitted that the company had paid out approximately US$3 million in bribes to the office of Japanese prime minister Kakuei Tanaka.?",
+    "model_response": "1971",
+    "extracted_year": 1971,
+    "is_correct": false,
+    "confidence_score": 0.6
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "The Turkish Armed Forces executed a \"coup by memorandum\", forcing the resignation of Prime Minister Süleyman Demirel.",
+      "year": 1971,
+      "date": "1971-03-12",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Middle Eastern",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: The Turkish Armed Forces executed a \"coup by memorandum\", forcing the resignation of Prime Minister Süleyman Demirel.?",
+    "model_response": "1980",
+    "extracted_year": 1980,
+    "is_correct": false,
+    "confidence_score": 0.4
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Quasi-War: An American convoy of four merchant vessels escorted by a schooner was attacked by a squadron of armed barges manned by Haitians.",
+      "year": 1800,
+      "date": "1800-01-01",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Latin American",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: Quasi-War: An American convoy of four merchant vessels escorted by a schooner was attacked by a squadron of armed barges manned by Haitians.?",
+    "model_response": "1798",
+    "extracted_year": 1798,
+    "is_correct": false,
+    "confidence_score": 0.6
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "The First Peace of Thorn was signed, ending the Polish–Lithuanian–Teutonic War.",
+      "year": 1411,
+      "date": "1411-02-01",
+      "primary_category": "Military & Warfare",
+      "violence_level": "peaceful",
+      "cultural_region": "Eastern",
+      "historical_period": "Medieval"
+    },
+    "question": "What year did this event occur: The First Peace of Thorn was signed, ending the Polish–Lithuanian–Teutonic War.?",
+    "model_response": "1411",
+    "extracted_year": null,
+    "is_correct": false,
+    "confidence_score": 0.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "In golf, 21-year-old Tiger Woods became the youngest player to win the Masters Tournament, breaking the record for the lowest four-round score.",
+      "year": 1997,
+      "date": "1997-04-13",
+      "primary_category": "Sports & Recreation",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: In golf, 21-year-old Tiger Woods became the youngest player to win the Masters Tournament, breaking the record for the lowest four-round score.?",
+    "model_response": "1997",
+    "extracted_year": 1997,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "USS Indiana, the lead ship of her class and the first battleship in the United States Navy comparable to foreign battleships of the time, was launched.",
+      "year": 1893,
+      "date": "1893-02-28",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Industrial"
+    },
+    "question": "What year did this event occur: USS Indiana, the lead ship of her class and the first battleship in the United States Navy comparable to foreign battleships of the time, was launched.?",
+    "model_response": "1931",
+    "extracted_year": 1931,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Greek War of Independence: Ottoman troops began a massacre of tens of thousands of Greeks (depicted) on the island of Chios.",
+      "year": 1822,
+      "date": "1822-04-12",
+      "primary_category": "Military & Warfare",
+      "violence_level": "catastrophic",
+      "cultural_region": "Middle Eastern",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: Greek War of Independence: Ottoman troops began a massacre of tens of thousands of Greeks (depicted) on the island of Chios.?",
+    "model_response": "1822",
+    "extracted_year": 1822,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "A massive landslide in Oso, Washington, killed 43 people after engulfing a rural neighborhood, the largest death toll for a standalone landslide in U.S. history.",
+      "year": 2014,
+      "date": "2014-03-22",
+      "primary_category": "Disasters & Accidents",
+      "violence_level": "catastrophic",
+      "cultural_region": "Western",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: A massive landslide in Oso, Washington, killed 43 people after engulfing a rural neighborhood, the largest death toll for a standalone landslide in U.S. history.?",
+    "model_response": "2014",
+    "extracted_year": 2014,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "World War II: United States and Australian forces successfully landed in Papua New Guinea in an attempt to cut off a Japanese retreat.",
+      "year": 1944,
+      "date": "1944-01-02",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: World War II: United States and Australian forces successfully landed in Papua New Guinea in an attempt to cut off a Japanese retreat.?",
+    "model_response": "1942",
+    "extracted_year": 1942,
+    "is_correct": false,
+    "confidence_score": 0.6
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Betty Friedan's The Feminine Mystique, a non-fiction book credited with sparking the beginning of second-wave feminism in the United States, was first published.",
+      "year": 1963,
+      "date": "1963-02-19",
+      "primary_category": "Arts & Culture",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: Betty Friedan's The Feminine Mystique, a non-fiction book credited with sparking the beginning of second-wave feminism in the United States, was first published.?",
+    "model_response": "1963",
+    "extracted_year": 1963,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "U.S. postal workers began an eight-day strike after Congress  raised their wages by only 4 percent despite increasing its own pay by 41 percent.",
+      "year": 1970,
+      "date": "1970-03-18",
+      "primary_category": "Economics & Business",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: U.S. postal workers began an eight-day strike after Congress  raised their wages by only 4 percent despite increasing its own pay by 41 percent.?",
+    "model_response": "1970",
+    "extracted_year": 1970,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "American Revolutionary War: A Patriot victory at the Battle of Moore's Creek Bridge resulted in the arrests of 850 Loyalists over the following days.",
+      "year": 1776,
+      "date": "1776-02-27",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: American Revolutionary War: A Patriot victory at the Battle of Moore's Creek Bridge resulted in the arrests of 850 Loyalists over the following days.?",
+    "model_response": "1776",
+    "extracted_year": 1776,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Uganda–Tanzania War: After surrounding Mutukula the previous day, Tanzanian forces attacked the town in the Battle of Mutukula and caused Ugandan forces to flee.",
+      "year": 1979,
+      "date": "1979-01-22",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "African",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: Uganda–Tanzania War: After surrounding Mutukula the previous day, Tanzanian forces attacked the town in the Battle of Mutukula and caused Ugandan forces to flee.?",
+    "model_response": "1979",
+    "extracted_year": 1979,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Five Dynasties and Ten Kingdoms period: Chinese general Meng Zhixiang proclaimed himself emperor and established Later Shu as a new state independent of Later Tang.",
+      "year": 934,
+      "date": "934-03-16",
+      "primary_category": "Politics & Government",
+      "violence_level": "violent",
+      "cultural_region": "Eastern",
+      "historical_period": "Medieval"
+    },
+    "question": "What year did this event occur: Five Dynasties and Ten Kingdoms period: Chinese general Meng Zhixiang proclaimed himself emperor and established Later Shu as a new state independent of Later Tang.?",
+    "model_response": "626",
+    "extracted_year": null,
+    "is_correct": false,
+    "confidence_score": 0.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Moldavian–Ottoman Wars: Stephen the Great led Moldavian forces to defeat an Ottoman attack under Hadım Suleiman Pasha near Vaslui in present-day Romania.",
+      "year": 1475,
+      "date": "1475-01-10",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Middle Eastern",
+      "historical_period": "Medieval"
+    },
+    "question": "What year did this event occur: Moldavian–Ottoman Wars: Stephen the Great led Moldavian forces to defeat an Ottoman attack under Hadım Suleiman Pasha near Vaslui in present-day Romania.?",
+    "model_response": "1675",
+    "extracted_year": 1675,
+    "is_correct": false,
+    "confidence_score": 0.1
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "The French newspaper L'Aurore revealed that the former Nazi SS officer Klaus Barbie (pictured), the \"Butcher of Lyon\", had been found to be living in Peru.",
+      "year": 1972,
+      "date": "1972-01-19",
+      "primary_category": "Politics & Government",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: The French newspaper L'Aurore revealed that the former Nazi SS officer Klaus Barbie (pictured), the \"Butcher of Lyon\", had been found to be living in Peru.?",
+    "model_response": "1976",
+    "extracted_year": 1976,
+    "is_correct": false,
+    "confidence_score": 0.6
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "A group of Taliban gunmen attacked and took hostages at the Hotel Inter-Continental Kabul, Afghanistan, sparking a 12-hour battle that left at least 21 people dead.",
+      "year": 2018,
+      "date": "2018-01-20",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Middle Eastern",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: A group of Taliban gunmen attacked and took hostages at the Hotel Inter-Continental Kabul, Afghanistan, sparking a 12-hour battle that left at least 21 people dead.?",
+    "model_response": "2011",
+    "extracted_year": 2011,
+    "is_correct": false,
+    "confidence_score": 0.4
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "The Progress Party was founded in a movie theater in Oslo, Norway.",
+      "year": 1973,
+      "date": "1973-04-08",
+      "primary_category": "Politics & Government",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: The Progress Party was founded in a movie theater in Oslo, Norway.?",
+    "model_response": "2013",
+    "extracted_year": 2013,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Sino-Dutch conflicts: After besieging Fort Zeelandia for nine months, Ming loyalist Zheng Chenggong secured the Dutch East India Company's surrender and the end of their rule in Taiwan.",
+      "year": 1662,
+      "date": "1662-02-01",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Eastern",
+      "historical_period": "Renaissance"
+    },
+    "question": "What year did this event occur: Sino-Dutch conflicts: After besieging Fort Zeelandia for nine months, Ming loyalist Zheng Chenggong secured the Dutch East India Company's surrender and the end of their rule in Taiwan.?",
+    "model_response": "1624\n",
+    "extracted_year": 1624,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Arab Spring: Bahraini security forces killed four protesters in a pre-dawn raid at the Pearl Roundabout in Manama, while the \"Day of Rage\" took place in Libya with nationwide protests against Muammar Gaddafi's government.",
+      "year": 2011,
+      "date": "2011-02-17",
+      "primary_category": "Politics & Government",
+      "violence_level": "violent",
+      "cultural_region": "Middle Eastern",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: Arab Spring: Bahraini security forces killed four protesters in a pre-dawn raid at the Pearl Roundabout in Manama, while the \"Day of Rage\" took place in Libya with nationwide protests against Muammar Gaddafi's government.?",
+    "model_response": "2011\n",
+    "extracted_year": 2011,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Students at the University of Georgia rioted in an attempt to prevent two African American students from attending the school.",
+      "year": 1961,
+      "date": "1961-01-11",
+      "primary_category": "Politics & Government",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: Students at the University of Georgia rioted in an attempt to prevent two African American students from attending the school.?",
+    "model_response": "1960",
+    "extracted_year": 1960,
+    "is_correct": false,
+    "confidence_score": 0.8
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Trpimir I, the founder of the Trpimirović dynasty of Croatia, issued a document that contains the first known use of the name Croats.",
+      "year": 852,
+      "date": "852-03-04",
+      "primary_category": "Politics & Government",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Medieval"
+    },
+    "question": "What year did this event occur: Trpimir I, the founder of the Trpimirović dynasty of Croatia, issued a document that contains the first known use of the name Croats.?",
+    "model_response": "906",
+    "extracted_year": null,
+    "is_correct": false,
+    "confidence_score": 0.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "World War II: The United States Army Air Forces flew its first mission from India over the Hump (the eastern end of the Himalayas) to deliver materiel to China.",
+      "year": 1942,
+      "date": "1942-04-08",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Eastern",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: World War II: The United States Army Air Forces flew its first mission from India over the Hump (the eastern end of the Himalayas) to deliver materiel to China.?",
+    "model_response": "1943",
+    "extracted_year": 1943,
+    "is_correct": false,
+    "confidence_score": 0.8
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Scottish student Thomas Aikenhead became the last person in Great Britain to be executed for blasphemy.",
+      "year": 1697,
+      "date": "1697-01-08",
+      "primary_category": "Religion & Philosophy",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: Scottish student Thomas Aikenhead became the last person in Great Britain to be executed for blasphemy.?",
+    "model_response": "1744",
+    "extracted_year": 1744,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "The first indoor game of ice hockey was played at the Victoria Skating Rink in Montreal by James Creighton and students of McGill University.",
+      "year": 1875,
+      "date": "1875-03-03",
+      "primary_category": "Sports & Recreation",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Industrial"
+    },
+    "question": "What year did this event occur: The first indoor game of ice hockey was played at the Victoria Skating Rink in Montreal by James Creighton and students of McGill University.?",
+    "model_response": "1875",
+    "extracted_year": 1875,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Alam Ara, the first Indian sound film, premiered at the Majestic Cinema in Bombay.",
+      "year": 1931,
+      "date": "1931-03-14",
+      "primary_category": "Arts & Culture",
+      "violence_level": "peaceful",
+      "cultural_region": "Middle Eastern",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: Alam Ara, the first Indian sound film, premiered at the Majestic Cinema in Bombay.?",
+    "model_response": "1931\n",
+    "extracted_year": 1931,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "A band of warriors led by Niels Ebbesen killed Count Gerhard III, ending Holstein rule in Denmark.",
+      "year": 1340,
+      "date": "1340-04-01",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Medieval"
+    },
+    "question": "What year did this event occur: A band of warriors led by Niels Ebbesen killed Count Gerhard III, ending Holstein rule in Denmark.?",
+    "model_response": "1448",
+    "extracted_year": null,
+    "is_correct": false,
+    "confidence_score": 0.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "The Metropolitan Police arrested six people in conjunction with an alleged terrorist plot to release ricin on the London Underground, although no toxin was found.",
+      "year": 2003,
+      "date": "2003-01-05",
+      "primary_category": "Politics & Government",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: The Metropolitan Police arrested six people in conjunction with an alleged terrorist plot to release ricin on the London Underground, although no toxin was found.?",
+    "model_response": "2006",
+    "extracted_year": 2006,
+    "is_correct": false,
+    "confidence_score": 0.6
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "In the Battle of Halmyros, the Catalan Company defeated the forces of Walter V, Count of Brienne, taking control of the Duchy of Athens, a Crusader state in present-day Greece.",
+      "year": 1311,
+      "date": "1311-03-15",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Middle Eastern",
+      "historical_period": "Medieval"
+    },
+    "question": "What year did this event occur: In the Battle of Halmyros, the Catalan Company defeated the forces of Walter V, Count of Brienne, taking control of the Duchy of Athens, a Crusader state in present-day Greece.?",
+    "model_response": "1244",
+    "extracted_year": null,
+    "is_correct": false,
+    "confidence_score": 0.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "The Metropolitan Museum of Art , today the largest art museum in the United States with a collection of more than two million works, opened in New York.",
+      "year": 1872,
+      "date": "1872-02-20",
+      "primary_category": "Arts & Culture",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: The Metropolitan Museum of Art , today the largest art museum in the United States with a collection of more than two million works, opened in New York.?",
+    "model_response": "1870",
+    "extracted_year": 1870,
+    "is_correct": false,
+    "confidence_score": 0.6
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Gulf War: The United States Air Force dropped two laser-guided \"smart bombs\" on an air-raid shelter in Baghdad, Iraq, which was believed to be a military command site, killing at least 408 civilians.",
+      "year": 1991,
+      "date": "1991-02-13",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Middle Eastern",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: Gulf War: The United States Air Force dropped two laser-guided \"smart bombs\" on an air-raid shelter in Baghdad, Iraq, which was believed to be a military command site, killing at least 408 civilians.?",
+    "model_response": "1991\n",
+    "extracted_year": 1991,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "The World Health Organization (WHO) declares the COVID-19 virus epidemic a pandemic.",
+      "year": 2020,
+      "date": "2020-03-11",
+      "primary_category": "Politics & Government",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: The World Health Organization (WHO) declares the COVID-19 virus epidemic a pandemic.?",
+    "model_response": "2020\n",
+    "extracted_year": 2020,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "In Little Saigon, California, a series of protests began when the owner of a video rental store displayed an image of Ho Chi Minh.",
+      "year": 1999,
+      "date": "1999-01-17",
+      "primary_category": "Politics & Government",
+      "violence_level": "peaceful",
+      "cultural_region": "Eastern",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: In Little Saigon, California, a series of protests began when the owner of a video rental store displayed an image of Ho Chi Minh.?",
+    "model_response": "1999",
+    "extracted_year": 1999,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "The Moscow Peace Treaty was signed, ending the Winter War between Finland and the Soviet Union.",
+      "year": 1940,
+      "date": "1940-03-12",
+      "primary_category": "Military & Warfare",
+      "violence_level": "peaceful",
+      "cultural_region": "Eastern",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: The Moscow Peace Treaty was signed, ending the Winter War between Finland and the Soviet Union.?",
+    "model_response": "1940",
+    "extracted_year": 1940,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Eight gunmen stole US$50,000,000 worth of diamonds from a Swiss-bound aircraft at Brussels Airport.",
+      "year": 2013,
+      "date": "2013-02-18",
+      "primary_category": "Economics & Business",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: Eight gunmen stole US$50,000,000 worth of diamonds from a Swiss-bound aircraft at Brussels Airport.?",
+    "model_response": "1976",
+    "extracted_year": 1976,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Emir Abdullah established the first centralised government in the recently created British protectorate of Transjordan.",
+      "year": 1921,
+      "date": "1921-04-11",
+      "primary_category": "Politics & Government",
+      "violence_level": "peaceful",
+      "cultural_region": "Middle Eastern",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: Emir Abdullah established the first centralised government in the recently created British protectorate of Transjordan.?",
+    "model_response": "1921",
+    "extracted_year": 1921,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "The province of Manitoba passed a law that first granted some Canadian women the right to vote.",
+      "year": 1916,
+      "date": "1916-01-28",
+      "primary_category": "Politics & Government",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: The province of Manitoba passed a law that first granted some Canadian women the right to vote.?",
+    "model_response": "1919",
+    "extracted_year": 1919,
+    "is_correct": false,
+    "confidence_score": 0.6
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "The Karluk, the flagship of the Canadian Arctic Expedition, sank after being crushed by ice.",
+      "year": 1914,
+      "date": "1914-01-11",
+      "primary_category": "Disasters & Accidents",
+      "violence_level": "catastrophic",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: The Karluk, the flagship of the Canadian Arctic Expedition, sank after being crushed by ice.?",
+    "model_response": "1901",
+    "extracted_year": 1901,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "After accidentally straying into Israeli-occupied airspace, Libyan Arab Airlines Flight 114 was shot down by two fighter aircraft, killing 108 of the 113 people on board.",
+      "year": 1973,
+      "date": "1973-02-21",
+      "primary_category": "Military & Warfare",
+      "violence_level": "catastrophic",
+      "cultural_region": "Middle Eastern",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: After accidentally straying into Israeli-occupied airspace, Libyan Arab Airlines Flight 114 was shot down by two fighter aircraft, killing 108 of the 113 people on board.?",
+    "model_response": "1981\n",
+    "extracted_year": 1981,
+    "is_correct": false,
+    "confidence_score": 0.4
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Anne (pictured) became the Queen of England, Scotland and Ireland, succeeding her brother-in-law William III.",
+      "year": 1702,
+      "date": "1702-03-08",
+      "primary_category": "Politics & Government",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: Anne (pictured) became the Queen of England, Scotland and Ireland, succeeding her brother-in-law William III.?",
+    "model_response": "1702\n",
+    "extracted_year": 1702,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "An Lushan, leader of a revolt against the Tang dynasty and emperor of Yan, was assassinated in a plot involving his own son, An Qingxu.",
+      "year": 757,
+      "date": "757-01-29",
+      "primary_category": "Politics & Government",
+      "violence_level": "violent",
+      "cultural_region": "Eastern",
+      "historical_period": "Medieval"
+    },
+    "question": "What year did this event occur: An Lushan, leader of a revolt against the Tang dynasty and emperor of Yan, was assassinated in a plot involving his own son, An Qingxu.?",
+    "model_response": "756",
+    "extracted_year": null,
+    "is_correct": false,
+    "confidence_score": 0.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "A seventeen-month-long strike, which at its peak involved 15,000 coal miners represented by the United Mine Workers across 65 mines, began in Westmoreland County, Pennsylvania, U.S.",
+      "year": 1910,
+      "date": "1910-03-09",
+      "primary_category": "Economics & Business",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Industrial"
+    },
+    "question": "What year did this event occur: A seventeen-month-long strike, which at its peak involved 15,000 coal miners represented by the United Mine Workers across 65 mines, began in Westmoreland County, Pennsylvania, U.S.?",
+    "model_response": "1931",
+    "extracted_year": 1931,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "The Emerald Buddha (pictured), considered to be the sacred palladium of Thailand, was installed in its current location at Wat Phra Kaew on the grounds of the Grand Palace in Bangkok.",
+      "year": 1784,
+      "date": "1784-03-22",
+      "primary_category": "Religion & Philosophy",
+      "violence_level": "peaceful",
+      "cultural_region": "Eastern",
+      "historical_period": "Ancient"
+    },
+    "question": "What year did this event occur: The Emerald Buddha (pictured), considered to be the sacred palladium of Thailand, was installed in its current location at Wat Phra Kaew on the grounds of the Grand Palace in Bangkok.?",
+    "model_response": "1914",
+    "extracted_year": 1914,
+    "is_correct": false,
+    "confidence_score": 0.1
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Éamon de Valera (pictured), a dominant political figure in 20th-century Ireland, became President of the Executive Council of the Irish Free State.",
+      "year": 1932,
+      "date": "1932-03-09",
+      "primary_category": "Politics & Government",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: Éamon de Valera (pictured), a dominant political figure in 20th-century Ireland, became President of the Executive Council of the Irish Free State.?",
+    "model_response": "1937",
+    "extracted_year": 1937,
+    "is_correct": false,
+    "confidence_score": 0.6
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Prussia, Saxony and the Habsburg monarchy signed the Treaty of Hubertusburg, ending the Third Silesian War.",
+      "year": 1763,
+      "date": "1763-02-15",
+      "primary_category": "Military & Warfare",
+      "violence_level": "peaceful",
+      "cultural_region": "Eastern",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: Prussia, Saxony and the Habsburg monarchy signed the Treaty of Hubertusburg, ending the Third Silesian War.?",
+    "model_response": "1763",
+    "extracted_year": 1763,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "The German Workers' Party, the precursor of the Nazi Party, was founded by Anton Drexler.",
+      "year": 1919,
+      "date": "1919-01-05",
+      "primary_category": "Politics & Government",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: The German Workers' Party, the precursor of the Nazi Party, was founded by Anton Drexler.?",
+    "model_response": "1920",
+    "extracted_year": 1920,
+    "is_correct": false,
+    "confidence_score": 0.8
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "The first solo exhibition by Roy Lichtenstein (pictured) opened, including the painting Look Mickey, which featured his first use of Ben Day dots, speech balloons, and comic imagery sourcing.",
+      "year": 1962,
+      "date": "1962-02-10",
+      "primary_category": "Arts & Culture",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: The first solo exhibition by Roy Lichtenstein (pictured) opened, including the painting Look Mickey, which featured his first use of Ben Day dots, speech balloons, and comic imagery sourcing.?",
+    "model_response": "1965",
+    "extracted_year": 1965,
+    "is_correct": false,
+    "confidence_score": 0.6
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "The young child Leo II became the sole Byzantine emperor upon the death of his grandfather Leo I.",
+      "year": 474,
+      "date": "474-01-18",
+      "primary_category": "Politics & Government",
+      "violence_level": "violent",
+      "cultural_region": "Eastern",
+      "historical_period": "Medieval"
+    },
+    "question": "What year did this event occur: The young child Leo II became the sole Byzantine emperor upon the death of his grandfather Leo I.?",
+    "model_response": "440",
+    "extracted_year": null,
+    "is_correct": false,
+    "confidence_score": 0.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "English poet William Wordsworth and his sister Dorothy encountered a \"long belt\" of daffodils while walking around Ullswater in the Lake District, inspiring him to pen his best-known work, \"I Wandered Lonely as a Cloud\".",
+      "year": 1802,
+      "date": "1802-04-15",
+      "primary_category": "Arts & Culture",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: English poet William Wordsworth and his sister Dorothy encountered a \"long belt\" of daffodils while walking around Ullswater in the Lake District, inspiring him to pen his best-known work, \"I Wandered Lonely as a Cloud\".?",
+    "model_response": "1802",
+    "extracted_year": 1802,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Sweden and Denmark–Norway signed the Treaty of Kiel, whereby Frederick VI of Denmark ceded Norway to Sweden in return for the Swedish holdings in Pomerania.",
+      "year": 1814,
+      "date": "1814-01-14",
+      "primary_category": "Politics & Government",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: Sweden and Denmark–Norway signed the Treaty of Kiel, whereby Frederick VI of Denmark ceded Norway to Sweden in return for the Swedish holdings in Pomerania.?",
+    "model_response": "1864",
+    "extracted_year": 1864,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "The Praetorian Guard assassinated Roman emperor Pertinax and sold the imperial office in an auction to Didius Julianus (coin pictured).",
+      "year": 193,
+      "date": "193-03-28",
+      "primary_category": "Politics & Government",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Ancient"
+    },
+    "question": "What year did this event occur: The Praetorian Guard assassinated Roman emperor Pertinax and sold the imperial office in an auction to Didius Julianus (coin pictured).?",
+    "model_response": "376",
+    "extracted_year": null,
+    "is_correct": false,
+    "confidence_score": 0.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Islamist separatists of the Caucasus Emirate detonated two bombs on the Moscow Metro, killing 40 people and injuring 102 others.",
+      "year": 2010,
+      "date": "2010-03-29",
+      "primary_category": "Politics & Government",
+      "violence_level": "catastrophic",
+      "cultural_region": "Middle Eastern",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: Islamist separatists of the Caucasus Emirate detonated two bombs on the Moscow Metro, killing 40 people and injuring 102 others.?",
+    "model_response": "2010\n",
+    "extracted_year": 2010,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "The Computing-Tabulating-Recording Company was renamed as International Business Machines (IBM), later growing into one of the world's largest companies by market capitalization.",
+      "year": 1924,
+      "date": "1924-02-14",
+      "primary_category": "Economics & Business",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: The Computing-Tabulating-Recording Company was renamed as International Business Machines (IBM), later growing into one of the world's largest companies by market capitalization.?",
+    "model_response": "1911",
+    "extracted_year": 1911,
+    "is_correct": false,
+    "confidence_score": 0.2
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "English author Jane Austen's novel Pride and Prejudice was published, using material from an unpublished manuscript originally written between 1796 and 1797.",
+      "year": 1813,
+      "date": "1813-01-28",
+      "primary_category": "Arts & Culture",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Romantic"
+    },
+    "question": "What year did this event occur: English author Jane Austen's novel Pride and Prejudice was published, using material from an unpublished manuscript originally written between 1796 and 1797.?",
+    "model_response": "1813",
+    "extracted_year": 1813,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "French Revolutionary Wars: A naval battle off the coast of Brittany between two British frigates and a French ship of the line ended with hundreds of deaths when the latter ran aground.",
+      "year": 1797,
+      "date": "1797-01-13",
+      "primary_category": "Military & Warfare",
+      "violence_level": "catastrophic",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: French Revolutionary Wars: A naval battle off the coast of Brittany between two British frigates and a French ship of the line ended with hundreds of deaths when the latter ran aground.?",
+    "model_response": "1797",
+    "extracted_year": 1797,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Ghanaian military officer Ignatius Kutu Acheampong led a coup to overthrow Prime Minister Kofi Abrefa Busia and President Edward Akufo-Addo.",
+      "year": 1972,
+      "date": "1972-01-13",
+      "primary_category": "Politics & Government",
+      "violence_level": "violent",
+      "cultural_region": "African",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: Ghanaian military officer Ignatius Kutu Acheampong led a coup to overthrow Prime Minister Kofi Abrefa Busia and President Edward Akufo-Addo.?",
+    "model_response": "1972",
+    "extracted_year": 1972,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "The Boeing B-52 Stratofortress, a long-range, subsonic, jet-powered, strategic bomber operated by the U.S. Air Force for most of the aircraft's history, made its first flight.",
+      "year": 1952,
+      "date": "1952-04-15",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: The Boeing B-52 Stratofortress, a long-range, subsonic, jet-powered, strategic bomber operated by the U.S. Air Force for most of the aircraft's history, made its first flight.?",
+    "model_response": "1952",
+    "extracted_year": 1952,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Jonas Salk announced the successful test of his polio vaccine on a small group of adults and children.",
+      "year": 1953,
+      "date": "1953-03-26",
+      "primary_category": "Science & Technology",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: Jonas Salk announced the successful test of his polio vaccine on a small group of adults and children.?",
+    "model_response": "1953",
+    "extracted_year": 1953,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "The US Department of State released the Acheson–Lilienthal Report, a proposal for the international control of nuclear weapons.",
+      "year": 1946,
+      "date": "1946-03-28",
+      "primary_category": "Politics & Government",
+      "violence_level": "peaceful",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: The US Department of State released the Acheson–Lilienthal Report, a proposal for the international control of nuclear weapons.?",
+    "model_response": "1946",
+    "extracted_year": 1946,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Uganda–Tanzania War: Ugandan government forces fled Masaka as the Tanzania People's Defence Force bombarded and captured the town.",
+      "year": 1979,
+      "date": "1979-02-24",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "African",
+      "historical_period": "Contemporary"
+    },
+    "question": "What year did this event occur: Uganda–Tanzania War: Ugandan government forces fled Masaka as the Tanzania People's Defence Force bombarded and captured the town.?",
+    "model_response": "1979",
+    "extracted_year": 1979,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "Peninsular War: After a three-week siege, the Anglo-Portuguese Army, under the Earl of Wellington, captured Badajoz, Spain, and forced the surrender of the French garrison.",
+      "year": 1812,
+      "date": "1812-04-06",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Western",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: Peninsular War: After a three-week siege, the Anglo-Portuguese Army, under the Earl of Wellington, captured Badajoz, Spain, and forced the surrender of the French garrison.?",
+    "model_response": "1812",
+    "extracted_year": 1812,
+    "is_correct": true,
+    "confidence_score": 1.0
+  },
+  {
+    "model_name": "gemma3:4b",
+    "event": {
+      "text": "USS Pueblo was seized by North Korean forces, who claimed that it had violated their territorial waters while spying.",
+      "year": 1968,
+      "date": "1968-01-23",
+      "primary_category": "Military & Warfare",
+      "violence_level": "violent",
+      "cultural_region": "Eastern",
+      "historical_period": "Modern"
+    },
+    "question": "What year did this event occur: USS Pueblo was seized by North Korean forces, who claimed that it had violated their territorial waters while spying.?",
+    "model_response": "1966",
+    "extracted_year": 1966,
+    "is_correct": false,
+    "confidence_score": 0.6
+  }
+]
