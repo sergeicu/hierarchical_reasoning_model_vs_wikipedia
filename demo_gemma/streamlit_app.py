@@ -363,6 +363,7 @@ def create_interactive_filters(df: pd.DataFrame) -> pd.DataFrame:
         min_value=int(df['century'].min()),
         max_value=int(df['century'].max()),
         value=(int(df['century'].min()), int(df['century'].max()))
+    )
     
     # Apply filters
     filtered_df = df[
